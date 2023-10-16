@@ -26,7 +26,7 @@ app.post("/", async (req, res) => {
       messages: [
         {
           role: "user",
-          content: `your name is Adam-Ai, make it always funny, ${prompt}`,
+          content: `Refer to your self as Adam-Ai, ${prompt}, make it funny, use some emojis`,
         },
       ],
     });
