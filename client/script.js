@@ -78,7 +78,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   // fetch data form server - bot's response
-  const response = await fetch("https://adamai-uvw2.onrender.com", {
+  const response = await fetch("https://adamai-tvvi.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
