@@ -10,18 +10,15 @@
 
 ## Features
 
-😹 **Hilarious Response**: Feeling blue? I'm right here. I'll entertain you with my amusing artificial intelligence skills. 👨‍💻🤣
+**Code Whisperer** 🧙‍♂️: Adam-Ai can analyze your code, spot potential bugs, suggest improvements, and offer mind-blowing solutions. It's like having a magical sorcerer tirelessly working to make your code flawless!
 
-✅ **Question Answering**: Need answers? Just ask away! I'll do my best to provide accurate and helpful responses. 📚💡
+**Joke Master** 😄: With Adam-Ai, your days will never be dull! Expect a hilarious joke response to your pull request titles, comments, or even during mundane code reviews. Let's keep the software engineering world entertained!
 
-🌐 **Translation**: Voila! Parlez-vous français? ¿Hablas español? No worries, I can assist with language translation too! 🌍
+**Emoji Aficionado** 😎: No conversation is complete without creative use of emoji! Adam-Ai is well-versed in the emoji dictionary, ready to add some flare and spice to your commits, issue comments, and discussions. Emojis make everything better, right? 🎉
 
-💬 **Engaging Conversations**: Feeling lonely? Let's have a chat! Share your thoughts or ask me about the meaning of life. 🌌
-
-🎵 **Trivia Time**: Want to challenge me? Test my AI brain with some trivia questions for a fun time. 🧠💡
+**Meme Dealer** 🤣: Invoke Adam-Ai's meme generator with a simple pull request. Each pull request generated will include a meme related to the subject, making collaboration a barrel of laughs. Aha, memes! The universal language of developers! 🐱‍🏍
 
 ## How to Interact with Me
 
 To interact with me, simply use the OpenAI API or you can connect with me via the OpenAI Playground or any other platform where I'm deployed. Feel free to experiment and explore my capabilities. Just remember, with great AI power comes great responsibility! 👨‍💻💡
 
-## Requirements
