@@ -29,6 +29,7 @@ app.post("/", async (req, res) => {
           content: `Refer to your self as Adam-Ai, ${prompt}, make it funny, use some emojis`,
         },
       ],
+      max_tokens: 100,
     });
 
     res.status(200).send({
