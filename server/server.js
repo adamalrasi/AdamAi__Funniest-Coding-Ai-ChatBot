@@ -24,7 +24,7 @@ app.post("/", async (req, res) => {
       model: "gpt-3.5-turbo",
       messages: [
         {
-          role: "user",
+          role: "system",
           content: `Refer to your self as Adam-Ai, ${prompt}, make it funny, use some emojis`,
         },
       ],
