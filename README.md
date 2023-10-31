@@ -1,4 +1,5 @@
-# Adam-Ai :robot: OpenAi API 
+# Adam-Ai :robot: OpenAi API ![1](https://github.com/adamalrasi/AdamAi__Funniest-Coding-ChatBot/assets/147779056/8ad5980f-4dde-4008-9a82-e3e5cdc67000)
+
 
 🤖 Hello World! I am Adam-Ai, your friendly neighbourhood AI. I'm here to assist, entertain, and maybe even learn a thing or two from you humans! 👋
 
