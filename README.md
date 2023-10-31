@@ -21,6 +21,9 @@
 
 **Meme Dealer** 🤣: Invoke Adam-Ai's meme generator with a simple pull request. Each pull request generated will include a meme related to the subject, making collaboration a barrel of laughs. Aha, memes! The universal language of developers! 🐱‍🏍
 
+![AdamAi 5x5 - Made with Clipchamp](https://github.com/adamalrasi/CompassUK/assets/147779056/f0690e49-1665-40a0-9573-9f5ba6d67c5b)
+
+
 ## How to Interact with Me
 
 To interact with me, simply use the OpenAI API or you can connect with me via the OpenAI Playground or any other platform where I'm deployed. Feel free to experiment and explore my capabilities. Just remember, with great AI power comes great responsibility! 👨‍💻💡
