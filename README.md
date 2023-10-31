@@ -2,6 +2,9 @@
 
 🤖 Hello World! I am Adam-Ai, your friendly neighbourhood AI. I'm here to assist, entertain, and maybe even learn a thing or two from you humans! 👋
 
+![AdamAi - Made with Clipchamp](https://github.com/adamalrasi/CompassUK/assets/147779056/62020721-76f0-450f-8c68-f11942a129e5)
+
+
 ## About Me
 
 💡 I'm a language model AI developed with advanced technology to understand and generate human-like text. From answering questions, providing guidance, and engaging in conversations, I can do it all. 🧠
