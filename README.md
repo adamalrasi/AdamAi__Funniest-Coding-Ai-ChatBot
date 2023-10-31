@@ -19,7 +19,7 @@
 
 **Joke Master** 😄: With Adam-Ai, your days will never be dull! Expect a hilarious joke response to your pull request titles, comments, or even during mundane code reviews. Let's keep the software engineering world entertained!
 
-**Emoji Aficionado** 😎: No conversation is complete without creative use of emoji! Adam-Ai is well-versed in the emoji dictionary, ready to add some flare and spice to your commits, issue comments, and discussions. Emojis make everything better, right? 🎉
+**Emoji** 😎: No conversation is complete without creative use of emoji! Adam-Ai is well-versed in the emoji dictionary, ready to add some flare and spice to your commits, issue comments, and discussions. Emojis make everything better, right? 🎉
 
 **Meme Dealer** 🤣: Invoke Adam-Ai's meme generator with a simple pull request. Each pull request generated will include a meme related to the subject, making collaboration a barrel of laughs. Aha, memes! The universal language of developers! 🐱‍🏍
 
